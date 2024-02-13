@@ -1,0 +1,29 @@
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.exe.config
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.exe.manifest
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.application
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.exe
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.pdb
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.csprojResolveAssemblyReference.cache
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_brans.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_doktor.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_duyuru.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_randevu_liste.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.hasta_duzenle.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.dr_detay.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.dr_giris.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_doktor_duzenle.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_girisler.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_hastadetay.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_hastagiris.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.frm_hastakayit.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.Properties.Resources.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.sekreter_detay.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.sekreter_giris.resources
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.csproj.GenerateResource.Cache
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.exe.manifest
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.application
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.exe
+C:\Users\Aysema Doyuran\Desktop\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.pdb
+D:\hdd\Yeni klasör (4)\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\bin\Debug\hastane_proje.exe.config
+D:\hdd\Yeni klasör (4)\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.exe
+D:\hdd\Yeni klasör (4)\C#\Uygulama Geliştirerek C# Öğrenin\hastane_proje\hastane_proje\hastane_proje\obj\Debug\hastane_proje.pdb
